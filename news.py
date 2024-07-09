@@ -7,7 +7,7 @@ def get_news(limit):
     base_url = "https://newsapi.org/v2/top-headlines"
     params = {
         'country': 'us',
-        'apiKey': 'd76bc37187fc47b68ef633c298285679',
+        'apiKey': 'API_KEY',
         'pageSize': limit
     }
     response = requests.get(base_url, params=params)
