@@ -1,4 +1,4 @@
-This project implements a voice assistant using python,integrating various functionalities like speech recognition, natural language processing (NLP), text-to-speech synthesis, and external APIs for weather, news, and reminders.
+This project implements a voice assistant using python,integrating various functionalities like speech recognition, natural language processing (NLP), text-to-speech synthesis, and external APIs for weather, news, and reminders.It has an effective User Interface to process and respond to the user's request.
 Its Features are:
 Speech Recognition: Converts speech input into text using the speech_recognition library.
 Text-to-Speech: Generates spoken output from text using the pyttsx3 library.
